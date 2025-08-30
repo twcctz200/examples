@@ -5,7 +5,7 @@
         "@types/node": "^8.0.0"
     },
     "dependencies": {
-        "redis": "^2.8.0",
+        "redis": "^5.8.2",
         "@pulumi/cloud": "latest",
         "@pulumi/cloud-aws": "latest"
     }
