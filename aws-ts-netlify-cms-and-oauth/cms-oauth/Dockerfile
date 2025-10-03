@@ -9,7 +9,7 @@ RUN go mod download
 RUN go install ./
 RUN ls /go/bin
 
-FROM alpine:3.12
+FROM alpine:3.18.12
 
 RUN apk --no-cache add ca-certificates
 
