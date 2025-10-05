@@ -2,8 +2,8 @@
     "name": "gcp-ts-slackbot",
     "version": "1.0.0",
     "dependencies": {
-        "@google-cloud/firestore": "^4.9.9",
-        "@google-cloud/pubsub": "^2.11.0",
+        "@google-cloud/firestore": "^6.0.0",
+        "@google-cloud/pubsub": "^3.0.0",
         "@pulumi/gcp": "^5.0.0",
         "@pulumi/pulumi": "^3.0.0",
         "body-parser": "^1.19.0",
