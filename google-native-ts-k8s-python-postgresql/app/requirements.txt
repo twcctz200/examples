@@ -1,3 +1,4 @@
 asyncpg==0.25.0  # postgres driver
 uvicorn[standard]==0.17.6  # http server
 xpresso==0.37.0  # web framework
+starlette>=0.40.0 # not directly required, pinned by Snyk to avoid a vulnerability
