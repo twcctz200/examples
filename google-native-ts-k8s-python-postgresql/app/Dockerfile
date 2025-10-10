@@ -1,4 +1,4 @@
-FROM python:3.10-slim
+FROM python:3.13.8-slim
 RUN mkdir /opt/project
 WORKDIR /opt/project
 COPY ./requirements.txt .
