@@ -3,7 +3,7 @@ GEM
   specs:
     mustermann (1.1.1)
       ruby2_keywords (~> 0.0.1)
-    rack (2.1.1)
+    rack (2.2.21)
     rack-protection (2.0.8.1)
       rack
     ruby2_keywords (0.0.2)
@@ -18,8 +18,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rack (>= 2.0.6)
+  rack (>= 2.1.4.1)
   sinatra
 
 BUNDLED WITH
-   2.1.4
+   2.3.27
