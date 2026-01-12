@@ -1,4 +1,4 @@
-FROM python:3.7-alpine
+FROM python:3.14.2-alpine
 COPY . /app
 WORKDIR /app
 EXPOSE 80
