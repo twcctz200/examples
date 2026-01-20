@@ -4,7 +4,7 @@
     "main": "index.ts",
     "dependencies": {
         "@pulumi/aws": "^5.30.0",
-        "@pulumi/awsx": "^1.0.2",
+        "@pulumi/awsx": "^2.20.0",
         "@pulumi/pulumi": "^3.55.0"
     }
 }
