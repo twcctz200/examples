@@ -9,6 +9,6 @@
         "@pulumi/kubernetes": "^3.0.0",
         "@pulumi/pulumi": "^3.0.0",
         "@types/mongoose": "^5.2.11",
-        "mongoose": "^5.2.13"
+        "mongoose": "^6.13.6"
     }
 }
